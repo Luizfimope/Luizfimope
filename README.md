@@ -1,7 +1,25 @@
+<h3 align="left">Hello 👋</h3>
 <h1 align="left">Hi 👋, I'm Luiz Pereira</h1>
-<h3 align="left">Sou estudante de Medicina Veterinária apaixonado por aves. Estudo na Universidade Federal de Minas Gerais desde 2022 onde tenho como área de estudo a virologia animal aplicada a medicina de conservação de aves.</h3>
+<ur>
+  <li>
+    I live in Brazil, Minas Gerais 🔺
+  </li>
 
-<h3 align="left">My connections::</h3>
+  <li>
+    Researcher at the Laboratory of Avian Diseases at UFMG (Labaves-UFMG)
+  </li>
+  
+  <li>
+    Member of the Wildlife Studies Group of Brazil (Geas-Brazil)
+  </li>
+
+  
+  <li>
+    Member of the Conservation Medicine Research Group at the Federal University of Minas Gerais 🌳 (Ecos)  
+  </li>
+  
+</ur>
+<h3 align="left">My connections:</h3>
 <p align="left">
 <a href="https://twitter.com/@luizmope1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luizmope1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/luiz-filipe-moreira-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz filipe moreira pereira" height="30" width="40" /></a>
