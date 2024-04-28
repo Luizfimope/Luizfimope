@@ -1,5 +1,5 @@
 <h3 align="left">Hello 👋</h3>
-<h1 align="left">Hi 👋, I'm Luiz Pereira</h1>
+<h1 align="left">I'm Luiz Pereira</h1>
 <ur>
   <li>
     I live in Brazil, Minas Gerais 🔺
