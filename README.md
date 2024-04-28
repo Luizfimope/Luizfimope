@@ -6,11 +6,11 @@
   </li>
 
   <li>
-    Researcher at the Laboratory of Avian Diseases at UFMG (Labaves-UFMG)
+    Researcher at the Laboratory of Avian Diseases at UFMG 🦜 (Labaves-UFMG)
   </li>
   
   <li>
-    Member of the Wildlife Studies Group of Brazil (Geas-Brazil)
+    Member of the Wildlife Studies Group of Brazil 🐆 (Geas-Brazil)
   </li>
 
   
